@@ -1,6 +1,90 @@
 {
   "movies": [
+    {
+      "id": 1,
+      "title": "BATMAN",
+      "posterPath": "./images/batman.jpg",
+      "overview": "Batman - The Dark Knight also known as Arkham Knight was released in 2005 with Batman Begins,Dark Knight and Dark Knight Rises.",
+      "releaseDate": "12-05-2005"
+    },
+    {
+      "id": 2,
+      "title": "ROBIN",
+      "posterPath": "./images/robin.jpg",
+      "overview": "Robin is animated superhero movie followed by Batman.Damian Wayne is the character played in this movie.",
+      "releaseDate": "16-10-2006"
+    },
+    {
+      "id": 3,
+      "title": "POISON IVY",
+      "posterPath": "./images/ivy.jpg",
+      "overview": "Posion Ivy was one of the dangerous villian of Batman Arkham Knight. Watch her destroy Gotham with her poisonous plants.",
+      "releaseDate": "02-04-2014"
+    },
+    {
+      "id": 4,
+      "title": "JOKER",
+      "posterPath": "./images/joker.jpg",
+      "overview": "Joker is the all time best villian of Batman. In Dark Knight ther was his first glimpse where he plays a hide and seek game with Batman.",
+      "releaseDate": "12-06-2015"
+    },
+    {
+      "id": 5,
+      "title": "HARLEY QUEEN",
+      "posterPath": "./images/harleyqueen.jpg",
+      "overview": "Harley Queen is the girl of Gotham's dangerous criminal - The Joker, She however helps batman to catch Joker and his thugs in Injustice.",
+      "releaseDate": "10-05-2007"
+    },
+    {
+      "id": 6,
+      "title": "ARKHAM KNIGHT",
+      "posterPath": "./images/prototype.jpg",
+      "overview": "Arkham Knight is a warrior superhero,self designed to destroy Batman as he assumed that Batman was the reason that his parents diedm but later he joins forces with Batman.",
+      "releaseDate": "12-10-2012"
+    },
+    {
+      "id": 7,
+      "title": "BANE",
+      "posterPath": "./images/bane.jpg",
+      "overview": "Bane the fastest active and smart villian for Batman shows in Dark Knight Rises where he activates the Time bomb to destroy Gotham but later Batman as always saves Gotham.",
+      "releaseDate": "31-01-2006"
+    },
+    {
+      "id": 8,
+      "title": "NIGHT WING",
+      "posterPath": "./images/nightwing.jpg",
+      "overview": "Night Wing the best side kick for Batman, is no other than son of Batman and Talia al Ghul. He carries out the side mission for Batman and excels in Combat and Acrobatics.",
+      "releaseDate": "07-11-2013"
+    }
   ],
   "favourites": [
+    {
+      "id": 6,
+      "title": "ARKHAM KNIGHT",
+      "posterPath": "./images/prototype.jpg",
+      "overview": "Arkham Knight is a warrior superhero,self designed to destroy Batman as he assumed that Batman was the reason that his parents diedm but later he joins forces with Batman.",
+      "releaseDate": "12-10-2012"
+    },
+    {
+      "id": 4,
+      "title": "JOKER",
+      "posterPath": "./images/joker.jpg",
+      "overview": "Joker is the all time best villian of Batman. In Dark Knight ther was his first glimpse where he plays a hide and seek game with Batman.",
+      "releaseDate": "12-06-2015"
+    },
+    {
+      "id": 8,
+      "title": "NIGHT WING",
+      "posterPath": "./images/nightwing.jpg",
+      "overview": "Night Wing the best side kick for Batman, is no other than son of Batman and Talia al Ghul. He carries out the side mission for Batman and excels in Combat and Acrobatics.",
+      "releaseDate": "07-11-2013"
+    },
+    {
+      "id": 1,
+      "title": "BATMAN",
+      "posterPath": "./images/batman.jpg",
+      "overview": "Batman - The Dark Knight also known as Arkham Knight was released in 2005 with Batman Begins,Dark Knight and Dark Knight Rises.",
+      "releaseDate": "12-05-2005"
+    }
   ]
 }

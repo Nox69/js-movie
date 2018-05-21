@@ -1,3 +1,41 @@
 body {
 	margin: 0;
+	background-color: black;
+}
+
+.container h2{
+	color: blue;
+}
+
+.img1{
+	height: 40vh;
+		width: 100%;
+}
+
+.movieClass{
+	list-style-type: none;
+}
+
+.flexmovie{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 3em;
+}
+
+.imgfit{
+	padding: 5em;
+}
+
+.card{
+	background-color: black;
+	width:400px;
+}
+
+.card h3{
+	color : white;
+}
+
+.card h6{
+	color: cyan;
 }

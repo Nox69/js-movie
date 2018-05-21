@@ -5,14 +5,16 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Movie Cruiser</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-	<link rel="stylesheet" type="text/css" href="/css/style.css">
+	<link rel="stylesheet" type="text/css" href="./css/style.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body>
 	<div class="container">
 		<div class="row">
 			<div class="col-12 col-md-6"> <!-- Bootstrap classes can be modified as desired -->
 				<h2>Movies</h2>
-				<ul id="moviesList">
+				<ul class="movieClass" id="moviesList">
 
 					<!-- Fill the Movies data here -->
 
@@ -20,15 +22,15 @@
 			</div>
 			<div class="col-12 col-md-6"> <!-- Bootstrap classes can be modified as desired -->
 				<h2>Favourites</h2>
-				<ul id="favouritesList">
-						
-					<!-- Fill the Favourites data here -->	
+				<ul class="movieClass" id="favouritesList">
+
+					<!-- Fill the Favourites data here -->
 
 				</ul>
 			</div>
 		</div>
 	</div>
-	<script type="text/javascript" src="/js/script.js"></script>
+	<script type="text/javascript" src="./js/script.js"></script>
 	<script type="text/javascript">
 		getMovies();
 		getFavourites();
